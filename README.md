@@ -1,1 +1,10 @@
-# quiz-management-system
+A quiz management system can be used in various fields of education.       
+Many Entrance Exams use MCQ Application. Multiple Choice Question Formats are used in JEE, NEET, CET, SAT’s and etc.
+It can used in companies for conducting aptitude tests for the employees to be recruited i.e. campus interviews.
+MCQ Applications can also be used as a practice module for all the subjects in schools and colleges. Practice tests can be conducted in schools and colleges for students to get the overall review of the syllabus.
+It can be used by psychologists to conduct aptitude tests for students who are confused to choose their career. It will give them the detailed logical development of the child they are studying.
+Psychologists also can use this to know the psychological behavior of the patient.
+It can also be used in to test the Intelligent Quotient and Emotional Quotient of a person.
+Since the people of India decide the law, this application can also be used to know the requirement of the people and make amendments in the Constitution of India.
+Java technology is widely used for web application development . Based on the object oriented concepts and core java concepts, this course will equip the student with the require knowledge and skill of object oriented programming approach needed for the development of robust, powerful web applications. Through this course students will get hands on experience on GUI technologies which AWT and Swing, event handling mechanism and network programming. The course also gives coverage to various web applications aspects like Database Interaction, server side components and servelts.
+In order to understand the theory of Frame, Menu-Bar and Menu Items in Java an attempt is made by our group to make a Using Frame by implementation of various concepts like code reusability, handling events and exception handling and understand the power of Java programming language and its advantageous features over other languages and prepare the report on same.
